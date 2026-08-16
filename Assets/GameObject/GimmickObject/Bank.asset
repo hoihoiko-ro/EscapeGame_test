@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b9cb0ca44ad583940a4f35ef52db1805, type: 3}
+  m_Name: Bank
+  m_EditorClassIdentifier: 
+  CameraPosition: {x: 2700, y: 110}
+  NextgimmickData: {fileID: 0}
+  sprite: {fileID: -5818292685511225567, guid: 396d2bb2da8fa204497a04a79c6a25d8, type: 3}

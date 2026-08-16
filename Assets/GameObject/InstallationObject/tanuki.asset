@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8880de0cfcc2a6c45b8e833e97262c66, type: 3}
+  m_Name: tanuki
+  m_EditorClassIdentifier: 
+  NeedItem: {fileID: 11400000, guid: ce5a53d5ba117af459a96463347deee3, type: 2}
+  NextData: {fileID: 11400000, guid: f39bab8d1f9cfa34d9bdd68a177ea1d6, type: 2}
+  sprite: {fileID: -8867362618951470759, guid: b35e8ab63e822494eb6e44434304c5ff, type: 3}
