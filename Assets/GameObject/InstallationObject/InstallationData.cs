@@ -20,6 +20,8 @@ public class InstallationData : ObjectData
                         //ê›íuï®ÇïœçX
                         controller.objectData = NextData;
                         controller.ChangeSprite();
+                        if(ClearFlag)
+                        Main.main.GameClear();
                     }
                     else
                     {

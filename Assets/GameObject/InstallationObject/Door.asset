@@ -15,3 +15,4 @@ MonoBehaviour:
   NeedItem: {fileID: 11400000, guid: 7173dfd2ad5c213438177402d60419c9, type: 2}
   NextData: {fileID: 11400000, guid: 01c52e50f9fe9da448b168325b8714ad, type: 2}
   sprite: {fileID: 4170416730611579338, guid: eaf2080bc5e548e4b9b84b1fe5ef53f5, type: 3}
+  ClearFlag: 1

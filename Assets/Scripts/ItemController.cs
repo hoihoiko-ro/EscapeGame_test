@@ -1,6 +1,4 @@
-using UnityEditorInternal.Profiling.Memory.Experimental;
 using UnityEngine;
-using UnityEngine.Rendering.VirtualTexturing;
 using UnityEngine.UI;
 
 public class ItemController : MonoBehaviour
